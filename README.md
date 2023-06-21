@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@vrajesh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vrajesh21" height="30" width="40" /></a>
+<a href="https://codepen.io/vrajesh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vrajesh21" height="30" width="40" /></a>
 <a href="https://twitter.com/rajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajesh david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh david" height="30" width="40" /></a>
 <a href="https://instagram.com/thera.jesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thera.jesh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rajeshdavid6660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rajeshdavid6660" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rajeshdavid6660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajeshdavid6660" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
