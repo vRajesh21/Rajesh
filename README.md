@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,ORACLE**
 
-- 📫 How to reach me **vijayrajesh1978@gmail.com**
+- 📫 Send mail at **vijayrajesh1978@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
